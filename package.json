@@ -1,0 +1,19 @@
+{
+  "name": "next-cookie-auth",
+  "version": "1.0.0",
+  "description": "Cookie authentication with Next.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagatheeswaran/next-cookie-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagatheeswaran/next-cookie-auth/issues"
+  },
+  "homepage": "https://github.com/jagatheeswaran/next-cookie-auth#readme"
+}
